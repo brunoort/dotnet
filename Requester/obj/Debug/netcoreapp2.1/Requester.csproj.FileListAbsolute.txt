@@ -1,0 +1,13 @@
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/bin/Debug/netcoreapp2.1/Requester.deps.json
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/bin/Debug/netcoreapp2.1/Requester.runtimeconfig.json
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/bin/Debug/netcoreapp2.1/Requester.runtimeconfig.dev.json
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/bin/Debug/netcoreapp2.1/Requester.dll
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/bin/Debug/netcoreapp2.1/Requester.pdb
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.csproj.AssemblyReference.cache
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.AssemblyInfoInputs.cache
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.AssemblyInfo.cs
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.csproj.CoreCompileInputs.cache
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.dll
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.pdb
+/Users/brunoort/Desktop/Meus Arquivos/projetos/Tests/dotnet/Requester/obj/Debug/netcoreapp2.1/Requester.genruntimeconfig.cache
